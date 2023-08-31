@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Num13er-XIII
-- 👀 I’m interested in artificial intelligence
-- 🌱 I’m currently learning machine learning with python
+- 👀 I’m a Radiology resident and interested in artificial intelligence
+- 🌱 I’m currently doing my doctoral thesis in image segmentation
 - 💞️ I’m looking to collaborate on DL projects
 - 📫 How to reach me: direct message
 
